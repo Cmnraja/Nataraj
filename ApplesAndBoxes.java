@@ -25,7 +25,7 @@ public class Hello {
 		}
 		for(int i=0;i<a;i++)
 		{
-		    for(int j=0;j<a;j++)
+		    for(int j=i+1;j<a;j++)
 		    {
 		        
 		        if(a1[j]==a1[i]&&s1==0)
